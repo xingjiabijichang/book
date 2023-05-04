@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # ✨ ✨
 
 {% hint style="warning" %}
